@@ -42,3 +42,7 @@ desktop.ini
 # Misc
 *.local
 coverage/
+
+# Local agent skills
+.agents/
+skills-lock.json

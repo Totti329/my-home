@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-label="作品图片待补充">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#23272d"/>
+      <stop offset="1" stop-color="#14171a"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="320" fill="url(#g)"/>
+  <path d="M480 118 L500 146 L480 174 L460 146 Z" fill="none" stroke="#ffffff" stroke-opacity="0.3"/>
+  <line x1="300" y1="212" x2="360" y2="212" stroke="#ffffff" stroke-opacity="0.22"/>
+  <line x1="600" y1="212" x2="660" y2="212" stroke="#ffffff" stroke-opacity="0.22"/>
+  <text x="480" y="220" fill="#ffffff" fill-opacity="0.75" font-family="'Source Sans Pro', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="24" letter-spacing="3" text-anchor="middle">作品图片待补充</text>
+</svg>
